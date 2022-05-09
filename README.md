@@ -11,6 +11,6 @@ Application built with:
 ## How it works
 
 * Gathers and dowloads web content from IMDB (https://www.imdb.com/list/ls052283250/).
-* Data is cleaned, transformed and normalized before presenting to the user.
+* Data is cleaned, transformed and normalized before presenting to the user. 
 * Tackles Bitmap, InputStream, BufferReader, HttpURLConnection, URL, Matcher and Pattern classes.
 * Downloading web content from a structed website is another alternative solution to using APIs:)
