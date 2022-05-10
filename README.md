@@ -1,6 +1,6 @@
 # Guess_the_Celebrity
 
-Guess the celebrity name from the random picture provided.
+Guess the celebrity name from the random picture provided. 
 
 ## Description
 Application built with:
